@@ -16,7 +16,7 @@ Issue: Some departments were marked as "NULL".
 Solution:Replaced "NULL" with a blank value.
 Sorted the Department column and removed the top rows with missing departments.
 
-###4. Creating Employee Count Measure
+### 4. Creating Employee Count Measure
 DAX Formula Used:
 dax
 Employee Count = COUNTROWS('Palmora HR Data')
