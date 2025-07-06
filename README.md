@@ -20,3 +20,33 @@ Sorted the Department column and removed the top rows with missing departments.
 DAX Formula Used:
 dax
 Employee Count = COUNTROWS('Palmora HR Data')
+
+## Key Insights from Analysis
+### 1. Gender Distribution Across Regions & Departments
+•	Visualization: Stacked bar/column chart.
+•	Finding:
+o	Male employees dominate in most departments.
+o	Some regions (e.g., Abuja) have a higher gender disparity than others.
+### 2. Performance Ratings by Gender
+•	Visualization: Clustered bar chart.
+•	Finding:
+o	Males have higher average ratings.
+o	Females have higher "Very Good" ratings.
+### 3. Gender Pay Gap Analysis
+•	Visualization: Salary comparison by gender Pie chart 
+•	Finding:
+o	Average male salary is 2653salary.
+o	Top departments with the largest pay gap:
+	HR (Abuja)
+	Business Development (Kaduna)
+	Accounting (Abuja)
+	R&D (Lagos)
+	Legal (Kaduna)
+### 4. Compliance with Minimum Wage Regulation ($90,000)
+•	Visualization  Card 
+•	Finding:
+o	Only 30.8% of employees meet the $90,000 minimum wage requirement.
+o	Salary Band Analysis:
+	The 70,000 - 80,000 band has the highest employee count (117).
+	Visualized salary distribution across regions.
+ 
